@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/cloud-music/static/js/main.a3bd5910.chunk.js",
-    "main.js.map": "/cloud-music/static/js/main.a3bd5910.chunk.js.map",
+    "main.js": "/cloud-music/static/js/main.a77ba300.chunk.js",
+    "main.js.map": "/cloud-music/static/js/main.a77ba300.chunk.js.map",
     "runtime-main.js": "/cloud-music/static/js/runtime-main.15ac6c8f.js",
     "runtime-main.js.map": "/cloud-music/static/js/runtime-main.15ac6c8f.js.map",
     "static/css/2.4bcab487.chunk.css": "/cloud-music/static/css/2.4bcab487.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15ac6c8f.js",
     "static/css/2.4bcab487.chunk.css",
     "static/js/2.9341bbb0.chunk.js",
-    "static/js/main.a3bd5910.chunk.js"
+    "static/js/main.a77ba300.chunk.js"
   ]
 }
